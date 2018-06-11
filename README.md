@@ -4,7 +4,7 @@
 
 #### Table of Contents
 
-- [Movies & TV](#movie-&-tv)
+- [Movies & TV](#movies-&-tv)
 - [Android Apps](#android-apps)
 - [Music](#music)
 - [E-Books & Comics](#e-books-&-comics)
@@ -12,7 +12,7 @@
 
 ## Movies & TV
 
-[pahe.in](pahe.in) - *Large variety of Movies and TV Shows, including in theater movies and whole TV seasons.*
+[pahe.in](pahe.in) - Large variety of Movies and TV Shows, including in theater movies and whole TV seasons.
 
 [MkvCage](mkvcage.ws) - Lots of Movies and TV shows, torrent links as well as direct links 
 
