@@ -36,7 +36,9 @@
 
 [Kingdom Leaks](kingdom-leaks.com) - New releases, singles and albums. MP3 @ 320kbps
 
-[Sitting on Clouds Soundtrack Collection](http://sittingoncloudsost.com/ost/last-added/) - Video game soundtracks, both new and old. 
+[Sitting on Clouds Soundtrack Collection](http://sittingoncloudsost.com/ost/last-added/) - Video game soundtracks, both new and old.
+
+[so-name](https://so-name.win/) - Full albums, MP3 @ 320kbps
 
 ## E-Books & Comics
 
