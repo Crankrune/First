@@ -99,7 +99,7 @@
 - [Facebook Lite](https://forum.mobilism.org/viewtopic.php?f=1336&t=2610946) - Official Facebook Lite app.
 - [Friendly for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2608074) - Includes messenger, and video downloading.
 - [Folio for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2606052) - Includes messenger, download pictures and video, order feed by most recent.
-- [Power for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2 -604893) - Another one, app design is similar to the Twitter app.
+- [Power for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2-604893) - Another one, app design is similar to the Twitter app.
 - [Metal Pro](https://forum.mobilism.org/viewtopic.php?f=1336&t=2607000) - Another app, has some cool features.
 
 [Creepypasta](https://forum.mobilism.org/viewtopic.php?f=423&t=2607826) - App for reading creepypasta (scary stories). I know you've read some of these before.
