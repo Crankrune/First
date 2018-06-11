@@ -4,11 +4,11 @@
 
 #### Table of Contents
 
-- [Movies & TV](#Movies & TV)
-- [Android Apps](#Android Apps)
-- [Music](#Music)
-- [E-Books & Comics](#E-Books & Comics)
-- [Recommended Apps](#Recommended Apps)
+- [Movies & TV](#movie- &-tv)
+- [Android Apps](#android-apps)
+- [Music](#music)
+- [E-Books & Comics](#e-books-&-comics)
+- [Recommended Apps](#recommended-apps)
 
 ## Movies & TV
 
