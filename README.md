@@ -80,4 +80,30 @@
 
 [YMusic](https://forum.mobilism.org/viewtopic.php?f=429&t=2586052&hilit=YMusic) - YouTube music downloader. 
 
-[Lyric Notepad](https://forum.mobilism.org/viewtopic.php?f=1332&t=2608115) - Write song lyrics, or poetry. Highlights rhymes, can search for rhymes, synonyms, and definitions in-app. With a metronome, play music (like instrumentals) while writing.
+[Lyric Notepad](https://forum.mobilism.org/viewtopic.php?f=1332&t=2608115) - Write song lyrics, or poetry. Highlights rhymes, can search for rhymes, synonyms, and definitions in-app. With a metronome, play music (like instrumentals) while writing. You can also record while looking at your lyrics.
+
+[Malwarebytes Anti-Malware](https://forum.mobilism.org/viewtopic.php?f=437&t=2601106) - The world's most popular anti-malware software. Could be useful if you download sketchy app.
+
+[ES File Explorer Pro](https://forum.mobilism.org/viewtopic.php?f=438&t=2529048) - Good file explorer, the one I've used for years.
+
+[Hotspot Shield VPN](https://forum.mobilism.org/viewtopic.php?f=428&t=2585174) - Good, free VPN. Good for privacy and when on sketchy WIFI networks. You can also switch region to other countries to get around region-locking for some content.
+
+[Tiles](https://forum.mobilism.org/viewtopic.php?f=438&t=2511333) - Add custom options to your quick settings.
+
+[Data Monitor](https://forum.mobilism.org/viewtopic.php?f=428&t=2603556) - Track the data you user per-app and on both WIFI and mobile data. Look at day and month totals.
+
+[Today Weather](https://forum.mobilism.org/viewtopic.php?f=442&t=2605689) - Very nice looking weather app.
+
+*Alternate Facebook Apps:*
+
+- [Facebook Lite](https://forum.mobilism.org/viewtopic.php?f=1336&t=2610946) - Official Facebook Lite app.
+- [Friendly for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2608074) - Includes messenger, and video downloading.
+- [Folio for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2606052) - Includes messenger, download pictures and video, order feed by most recent.
+- [Power for Facebook](https://forum.mobilism.org/viewtopic.php?f=1336&t=2 -604893) - Another one, app design is similar to the Twitter app.
+- [Metal Pro](https://forum.mobilism.org/viewtopic.php?f=1336&t=2607000) - Another app, has some cool features.
+
+[Creepypasta](https://forum.mobilism.org/viewtopic.php?f=423&t=2607826) - App for reading creepypasta (scary stories). I know you've read some of these before.
+
+[Smart AudioBook Player](https://forum.mobilism.org/viewtopic.php?f=421&t=2610303) - Listen to audiobooks, adjust playback speed, save bookmarks, and saves your position in the book.
+
+[Call Recorder - ACR](https://forum.mobilism.org/viewtopic.php?f=434&t=2611747) - Automatic Call Recorder
