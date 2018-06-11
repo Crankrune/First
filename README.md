@@ -2,7 +2,13 @@
 
  *Links for anything and everything you'll want!*
 
-[TOC]
+#### Table of Contents
+
+- [Movies & TV](#Movies & TV)
+- [Android Apps](#Android Apps)
+- [Music](#Music)
+- [E-Books & Comics](#E-Books & Comics)
+- [Recommended Apps](#Recommended Apps)
 
 ## Movies & TV
 
@@ -66,7 +72,7 @@
 
 [datmusic, AutomaTag, Pulsar+](https://goo.gl/V4fap3) - datmusic to download, AutomaTag to add info, Pulsar+ to listen.
 
-[AdGuard](https://forum.mobilism.org/viewtopic.php?f=437&t=2539184&hilit=Ad Guard) - Block most ads, in most apps and websites. I've used this one for a while.
+[AdGuard](https://forum.mobilism.org/viewtopic.php?f=437&t=2539184&hilit=AdGuard) - Block most ads, in most apps and websites. I've used this one for a while.
 
 [Terrarium TV](https://forum.mobilism.org/viewtopic.php?f=429&t=2590758&hilit=Terrarium+TV) - Stream and download Movies and TV shows.
 
