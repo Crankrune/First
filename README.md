@@ -79,3 +79,5 @@
 [Bobby Movie](https://forum.mobilism.org/viewtopic.php?f=429&t=2608448) - Stream and download Movies and TV shows. Similar to Terrarium TV.
 
 [YMusic](https://forum.mobilism.org/viewtopic.php?f=429&t=2586052&hilit=YMusic) - YouTube music downloader. 
+
+[Lyric Notepad](https://forum.mobilism.org/viewtopic.php?f=1332&t=2608115) - Write song lyrics, or poetry. Highlights rhymes, can search for rhymes, synonyms, and definitions in-app. With a metronome, play music (like instrumentals) while writing.
