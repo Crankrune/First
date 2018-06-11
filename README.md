@@ -4,7 +4,7 @@
 
 #### Table of Contents
 
-- [Movies & TV](#movie- &-tv)
+- [Movies & TV](#movie-&-tv)
 - [Android Apps](#android-apps)
 - [Music](#music)
 - [E-Books & Comics](#e-books-&-comics)
