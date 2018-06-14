@@ -12,15 +12,15 @@
 
 ## Movies & TV
 
-[pahe.in](pahe.in) - Large variety of Movies and TV Shows, including in theater movies and whole TV seasons.
+[pahe.in](http://pahe.in) - Large variety of Movies and TV Shows, including in theater movies and whole TV seasons.
 
-[MkvCage](mkvcage.ws) - Lots of Movies and TV shows, torrent links as well as direct links 
+[MkvCage](http://mkvcage.ws) - Lots of Movies and TV shows, torrent links as well as direct links 
 
-[onitube](onitube.com) - Streaming Movies and TV shows, new TV episodes uploaded next day.
+[onitube](http://onitube.com) - Streaming Movies and TV shows, new TV episodes uploaded next day.
 
-[yesmovies.to](yesmovies.to) - Streaming Movies and TV shows.
+[yesmovies.to](http://yesmovies.to) - Streaming Movies and TV shows.
 
-[FMovies](fmovies.se) - Streaming Movies and TV Shows. Many new releases, including in theater movies.
+[FMovies](http://fmovies.se) - Streaming Movies and TV Shows. Many new releases, including in theater movies.
 
 [PutlockerTV](https://www2.putlockertv.to/) - Stream Movies and TV shows. A clone of FMovies (or vise versa).
 
@@ -30,19 +30,19 @@
 
 ## Android Apps
 
-[Mobilism](mobilism.org) - Paid apps and games. As well as many books, magazines and audiobooks. *Huge* selection of apps and books. You need to register, but it's free.
+[Mobilism](http://mobilism.org) - Paid apps and games. As well as many books, magazines and audiobooks. *Huge* selection of apps and books. You need to register, but it's free.
 
-[Android-Zone](android-zone.ws) - Paid android apps and games. Including modded games.
+[Android-Zone](http://android-zone.ws) - Paid android apps and games. Including modded games.
 
-[Rev-DL](revdl.com) - Paid apps and games. Haven't used this one much, but it looks good.
+[Rev-DL](http://revdl.com) - Paid apps and games. Haven't used this one much, but it looks good.
 
 ## Music
 
-[Music Riders](musicriders.blogspot.com) - Full albums, MP3 @ 320kbps (High Quality)
+[Music Riders](http://musicriders.blogspot.com) - Full albums, MP3 @ 320kbps (High Quality)
 
 [NewAlbumReleases.net](http://newalbumreleases.net/) - Full, albums, MP3 @ 320kbps. Site is occasionally down.
 
-[Kingdom Leaks](kingdom-leaks.com) - New releases, singles and albums. MP3 @ 320kbps
+[Kingdom Leaks](http://kingdom-leaks.com) - New releases, singles and albums. MP3 @ 320kbps
 
 [Sitting on Clouds Soundtrack Collection](http://sittingoncloudsost.com/ost/last-added/) - Video game soundtracks, both new and old. 
 
@@ -54,15 +54,15 @@
 
 ## E-Books & Comics
 
-[Mobilism](mobilism.org) - *As listed above.*
+[Mobilism](http://mobilism.org) - *As listed above.*
 
-[Book-Fi](en.bookfi.net) - Pretty good, a lot of new books. Search isn't the best.
+[Book-Fi](http://en.bookfi.net) - Pretty good, a lot of new books. Search isn't the best.
 
-[B-OK.xyz](b-ok.xyz) - A clone of bookfi.
+[B-OK.xyz](http://b-ok.xyz) - A clone of bookfi.
 
-[Library Genesis](libgen.io) - A highly recommended site, a lot of books.
+[Library Genesis](http://libgen.io) - A highly recommended site, a lot of books.
 
-[GetComics](getcomics.info) - Any and every comicbook you'd want, including new releases. 
+[GetComics](http://getcomics.info) - Any and every comicbook you'd want, including new releases. 
 
 ## Recommended Apps
 
