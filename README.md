@@ -4,7 +4,7 @@
 
 #### Table of Contents
 
-- [Movies & TV](#movies--tv)
+- [Movies & TV](#movie--tv)
 - [Android Apps](#android-apps)
 - [Music](#music)
 - [E-Books & Comics](#e-books--comics)
@@ -22,6 +22,12 @@
 
 [FMovies](fmovies.se) - Streaming Movies and TV Shows. Many new releases, including in theater movies.
 
+[PutlockerTV](https://www2.putlockertv.to/) - Stream Movies and TV shows. A clone of FMovies (or vise versa).
+
+[Cine.to](https://cine.to) - Streaming Movies, seems good, haven't used it much.
+
+[WatchCartoonOnline](watchcartoononline.io) - Stream Anime and Cartoons, huge library.
+
 ## Android Apps
 
 [Mobilism](mobilism.org) - Paid apps and games. As well as many books, magazines and audiobooks. *Huge* selection of apps and books. You need to register, but it's free.
@@ -34,11 +40,17 @@
 
 [Music Riders](musicriders.blogspot.com) - Full albums, MP3 @ 320kbps (High Quality)
 
+[NewAlbumReleases.net](http://newalbumreleases.net/) - Full, albums, MP3 @ 320kbps. Site is occasionally down.
+
 [Kingdom Leaks](kingdom-leaks.com) - New releases, singles and albums. MP3 @ 320kbps
 
-[Sitting on Clouds Soundtrack Collection](http://sittingoncloudsost.com/ost/last-added/) - Video game soundtracks, both new and old.
+[Sitting on Clouds Soundtrack Collection](http://sittingoncloudsost.com/ost/last-added/) - Video game soundtracks, both new and old. 
 
 [so-name](https://so-name.win/) - Full albums, MP3 @ 320kbps
+
+[My Free MP3](https://my-free-mp3.net/) - Single songs, high quality. Most of them aren't tagged.
+
+[MP3 Juices](https://www.mp3juices.cc/) - Single songs, mostly sourced from YouTube and Soundcloud. So quality is iffy. Not a first choice.
 
 ## E-Books & Comics
 
@@ -51,8 +63,6 @@
 [Library Genesis](libgen.io) - A highly recommended site, a lot of books.
 
 [GetComics](getcomics.info) - Any and every comicbook you'd want, including new releases. 
-
-
 
 ## Recommended Apps
 
