@@ -4,7 +4,7 @@
 
 ## Movies & TV
 
-[RapidMoviez](rmz.cr) - Mainly for TV Shows, you'll find better versions of movies on other sites I list. Look for episodes by "RMTeam" that are "480p" either "WEB/WEBRip/WEB-DL"
+[RapidMoviez](rmz.cr) - Mainly for TV Shows, you'll find better versions of movies on other sites I list. Look for episodes by "RMTeam" that are "480p" either "WEB/WEBRip/WEB-DL". I'd recommend using either the Openload or RapidRar links.
 
 [Pahe.in](pahe.in) - Movies & TV shows in both 480p & 720p. I recommend using either MG (MEGA) or OL (Openload) links to download.
 
