@@ -1,3 +1,4 @@
+Video Collages:
 https://gfycat.com/gleefulhandsomeafricanelephant # Kat, Mel, Caity
 https://gfycat.com/whirlwindkaleidoscopicazurevasesponge # Mads
 https://gfycat.com/FavoriteCleanIbisbill # Lili
@@ -9,6 +10,7 @@ https://gfycat.com/amusedwarycod # Caity
 https://gfycat.com/frightenednaughtyballoonfish # Choni Club Scene
 https://gfycat.com/frenchcomposedkitty # Shantel
 
+Captions:
 https://gfycat.com/lonelyfrighteneddugong # Mel caption
 https://gfycat.com/pleasedfastgerbil # Mel/Chyler caption 2
 https://gfycat.com/carefulachingeider # Choni Caption
@@ -18,6 +20,7 @@ https://gfycat.com/melodicwideeyedannelid # Mel Caption 4
 https://gfycat.com/separateapterin # Diane Caption 1
 https://gfycat.com/tidywholebilby # Kat Caption 1
 
+GIFs:
 https://gfycat.com/icygentlekitten # You're the Worst, Aww if you make me cry
 https://gfycat.com/AnyPerkyArmadillo # Ashnikko WHAT
 https://gfycat.com/rigiddeserteddutchsmoushond # Kara You guys are so cute
