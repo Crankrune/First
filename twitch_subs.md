@@ -1,7 +1,5 @@
 # Female Twitch Streamer Stats
 
----
-
 ## Most Subscribed Female Streamers
 
 Name | Ranking | Overall Ranking | Peak Subs
@@ -37,6 +35,7 @@ Natsumiii | 12 | 119 | 20,728
 ## Streamer Payouts
 
 In October 2021 a lot of internal Twitch data was leaked, included in this was the overall money Twitch has paid out to various streamers. This payout money includes only that from subs, bit donations, ad revenue. Twitch contracts, standard donations, and personal sponsorships are **not** included in these figures. As well is only for the period of August 2019 through October 2021.
+
 *Bold names are of female streamers*
 
 Rank | Name | Payout
@@ -71,8 +70,6 @@ Rank | Name | Payout
 - The highest paid woman is all the way down at #33, with the exception of the group CriticalRole, which is men and women
 - Men are clearly making far more on average than women. The top woman has only made \$1.8M in 2 years, while about 10 men have made \$3.0M+, the top 5 being \$5.0M+
 - In the top 10 there are no women (outside of a group), the top 25 still has no women, and the top 50 only bring it to 3 women
-
----
 
 ## Most Followed Female Streamers
 
